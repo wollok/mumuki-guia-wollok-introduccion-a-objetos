@@ -31,7 +31,7 @@ Tomá nota :memo: de los elementos sintácticos que utilizamos:
 * `()` al final del nombre, tal cual como lo usamos al enviar el mensaje.
 * nuevamente `{}` para encerrar todo lo que abarca el método.
 * la palabra `return` para indicar cuál es la respuesta que se debe retornar en cada caso.
-* Como detalle, a las cadenas de caracteres las encerramos entre `""`, los valores de verdad se son `True` y `False` y los numeros tal cual son.
+* Como detalle, a las cadenas de caracteres las encerramos entre `""`, los valores de verdad se son `true` y `false` y los numeros tal cual son.
  
 ___
 
