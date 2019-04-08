@@ -1,0 +1,2 @@
+test "La mas bella del reino es la reina malvada" {
+  assert.equals("reina malvada"), espejoMagico.quienEsLaMasBellaDelReino()}
