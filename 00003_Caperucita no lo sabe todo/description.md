@@ -1,13 +1,10 @@
-Nos estamos confundiendo de cuento... 
+¡Nos estamos confundiendo de cuento... ! 
 
-Como nos imaginábamos, era una pregunta que no tenian que ver con Caperucita sino con Blancanieves, y por lo tanto no la sabe responder.
+¡Caperucita no tiene ni idea de espejos mágicos! ¡No sabe qué responder!
 
 Si a un objeto le enviamos un mensaje que no forma parte de su comportamiento, nuestro programa falla.
-No obtenemos una respuesta razonable, sino que lo que vemos es un error. 
-En este caso, se trata del error más típico: Tal objeto no entiende tal mensaje.
+No obtenemos una respuesta razonable, sino que lo que vemos es un _error_. 
+En este caso, se trata del error más típico: _El objeto no entiende el mensaje que le mandamos_.
 
-Moraleja: Como dice el viejo y conocido refrán, "no le pidas peras al olmo"
-
-___
-Probá hacer otras preguntas que también den un error similar. 
+> Probá hacer otras preguntas que también den un error similar. 
 

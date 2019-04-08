@@ -30,7 +30,7 @@ Como podemos ver, en primer lugar esta definido el objeto caperucita y luego cad
 
 Tomemos nota de los elementos sintacticos que utilizamos:
 * la palabra object delante del nombre del objeto
-* {} para encerrar lo que estamos definiendo de ese objeto, en este ejmplo, todo.
+* {} para encerrar lo que estamos definiendo de ese objeto, en este ejemplo, todo.
 * la palabra method delante del nombre de cada metodo del objeto.
 * () al final del nombre, tal cual como lo usamos al enviar el mensaje
 * nuevamente {} para encerrar todo lo que abarca cada metodo.
@@ -42,4 +42,3 @@ ___
 Si quisieramos que funcione el mensaje que anteriormente daba error, podriamos definir un nuevos metodo al objeto caperucita. Seria posible y sencillo, pero pensandolo mejor no tiene mucho sentido que sea Caperucita quien responda, sino otro personaje...  
 
 Definir un objeto para representar al espejo magico, que sepa decir quien es la mas bella del reino y nos responda que es la reina malvada
-

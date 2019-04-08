@@ -9,7 +9,7 @@ object caperucita {
   }
   
   method comoEstas() {
-    return "Contenta de venir a una clase en la facultad"
+    return "Contenta de estar en una clase de programación"
   }
   
   method deQueColorEsLoQueLlevasEnLaCanasta() {
