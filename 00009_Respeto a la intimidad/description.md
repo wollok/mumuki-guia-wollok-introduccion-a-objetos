@@ -1,19 +1,26 @@
-abuela.edad
+¡Los _atributos_ y los _metodos_ son cosas distintas!
 
-No funciona, porque a falta de parentesis no se lo interpreta como un mensaje.
+Veamos de a uno:
 
-abuela.edad()
+`abuela.edad()`
 
-Tampoco funciona, porque no está definido el método edad()
+Es un envio de mensaje bien escrito, pero no existe el método edad() en la abuela. 
 
-Esto nos lleva a ver que las variables no se pueden acceder desde afuera del objeto, decimos que son "privadas". 
+`abuela.edad` 
+
+No es un envío de mensaje, porque le faltan los `()`. 
+Y si lo que pretendías hacer es acceder a la variable de la abuela sin enviar un mensaje... ¡No se puede! Sólo podemos comunicarnos con un objeto enviándole mensajes.
+
+`abuela edad` 
+
+Esto no es nada. Si te animaste a probarlo, el error que te dio debe haber sido feo...  
+
+Esto nos lleva a ver que las variables no se pueden acceder desde afuera del objeto, decimos que son **privadas**.
+
 Si queremos preguntarle a la abuela cuantos años tiene, sí o sí tenemos que definir un método para ello. 
-Vamos a denominar "encapsulamiento" a esta característica de un objeto de ser el único que puede manipular sus propias variables. En otras palabras, retomando la nocion de entender a los objetos como sujetos, podemos decir que cada objeto mantiene oculta su intimidad y los demas objetos lo respetan.
 
-De todas maneras, no seria difícil hacer el método que nos permitan preguntarle la edad a la abuela.
+Vamos a denominar **encapsulamiento** a esta característica de un objeto de ser el único que puede manipular sus propios atributos. 
 
-Podríamos denominarlo como quisiéramos, cuantosAñosTenes(), decimeTuEdad(), tiempoTranscurridoDesdeElNacimiento(), pero para simplificar sin perder expresividad y también por convención vamos a llamarlo directamente edad()
+En otras palabras, retomando la idea de entender a los _objetos_ como _sujetos_, podemos decir que cada objeto mantiene oculta su _intimidad_ y los demas objetos lo respetan.
 
-¿Lo hacemos?
-
-
+> Te animás a hacer un método para preguntarle a la  abuela su edad? 

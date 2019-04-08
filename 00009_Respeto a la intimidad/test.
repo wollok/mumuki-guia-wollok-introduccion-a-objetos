@@ -1,4 +1,4 @@
-test "La abuela tiene 88 años" {
-  assert.equals(abuela.edad(),88)
+test "La abuela tiene 99 años" {
+  assert.equals(99, abuela.edad())
 }
 
