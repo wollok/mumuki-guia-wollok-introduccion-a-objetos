@@ -2,5 +2,5 @@
 
 test "la abuela modifica su edad a 15"{
   abuela.edad(15)
-  assert.equals(15, abuela.edad() }
+  assert.equals(15, abuela.edad())
 }
