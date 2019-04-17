@@ -39,7 +39,7 @@ Tomá nota :memo: de la sintaxis:
 > El `espejoMagico` debe entender los siguientes mensajes:
 
 > * `quienEsLaMasBellaDelReino()` Al igual que el ejercicio anterior, inicialmente responde que es la reina malvada.
-> * `pasoELTiempo()` Representa que pasaron los años y mientras tanto Blancanieves creció. Causa el efecto necesario para que luego, la pregunta anterior tenga por respuesta "Blancanieves".
+> * `pasoElTiempo()` Representa que pasaron los años y mientras tanto Blancanieves creció. Causa el efecto necesario para que luego, la pregunta anterior tenga por respuesta "Blancanieves".
 
   
   
