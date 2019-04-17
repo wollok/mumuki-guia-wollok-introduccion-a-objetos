@@ -11,7 +11,7 @@ object abuela {
 ¿Cómo hacemos para saber cuántos años tiene?
 
 > Proba en la consola con:
-
-> `ム abuela.edad`
-> `ム abuela edad`
-> `ム abuela.edad()`
+>
+> * `ム abuela.edad`
+> * `ム abuela edad`
+> * `ム abuela.edad()`
