@@ -3,7 +3,7 @@ Hay diversos personajes y cada uno tiene su libreto.
 
 En esta oportunidad, tenemos la conocida historia de _Caperucita Roja_, quien nos vino a visitar.
 
-<img width="400" src="https://chiquipedia.com/images/cuento-leer-caperucita-roja.jpg"/>
+<img width="400" src="chiquipedia.com/images/cuento-leer-caperucita-roja.jpg"/>
 
 > Veamos que le podemos decir a nuestra invitada de hoy. 
 >
