@@ -6,7 +6,7 @@ Desde el punto de vista conceptual...
 * Un objeto entiende mensajes y los responde. 
 * Al conjunto de mensajes que un objeto entiende se lo llama **comportamiento**.
 
-¡Ojo!, no es un insulto o una falta de respeto calificar de _objeto_ a la protagonista de nuestra historia... es la término que se utiliza en el paradigma.
+¡Ojo!, no es un insulto o una falta de respeto calificar de _objeto_ a la protagonista de nuestra historia... es el término que se utiliza en el paradigma.
 En nuestro lenguaje corriente, a quien sabe responder más que decirle meramente "objeto" lo llamaríamos de otra manera que represente mejor su caracter vital, por ejemplo, "sujeto". 
 No pretendemos reformular el paradigma con nuevos términos, poro sí tener presente que un "objeto" se refiere mas a "alguien" que a "algo". 
 De hecho, que se denomine _comportamiento_ a lo que sabe responder nos refuerza la idea de que se trata de alguien inteligente.
