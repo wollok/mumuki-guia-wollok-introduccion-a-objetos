@@ -1,6 +1,6 @@
 El motivo por el cual Caperucita sabe responder a algunos mensajes y otros no, es porque cuando declaramos el objeto que la representa, indicamos qué y cómo responder.
 
-Un objeto se define con un nombre y una serie de porciones de codigo que se denominan metodos, que indican qué mensajes puede responder y describen la manera en que lo hacen.
+Un objeto se define con un nombre y una serie de porciones de código que se denominan *métodos*, que indican qué mensajes puede responder y describen la manera en que lo hacen.
 
 Por ejemplo, para que `caperucita` pueda responder a las preguntas anteriores, tiene que estar definido lo siguiente:
 
@@ -13,7 +13,7 @@ object caperucita {
     return 80 
   }
   method comoEstas() {
-    return "contenta de venir a una clase en la facultad"
+    return "contenta de venir a una clase de programación"
   }
   method deQueColorEsLoQueLlevasEnLaCanasta() {
     return "rojo" 

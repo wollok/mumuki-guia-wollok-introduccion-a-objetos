@@ -3,7 +3,7 @@ Hay diversos personajes y cada uno tiene su libreto.
 
 En esta oportunidad, tenemos la conocida historia de _Caperucita Roja_, quien nos vino a visitar.
 
-<img src="chiquipedia.com/images/cuento-leer-caperucita-roja.jpg" alt="" width="auto" height="auto">
+<img src="https://images.clarin.com/2019/04/11/_9CAfWjy9_1256x620__1.jpg" alt="" width="auto" height="auto">
 > Veamos que le podemos decir a nuestra invitada de hoy. 
 >
 > Escribí estas lineas en la consola, presioná **enter** y fijate qué sucede. :apple:
