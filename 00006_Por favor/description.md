@@ -8,7 +8,7 @@ _¿El lobo no nos hizo caso y decidió no ejecutar el método?_
 
 No, los objetos no pueden "desobedecer", tampoco discriminan según quién les envíe el mensaje o en qué momento.
 
-Pero si lo volvemos a pensar, lo que le dijimos al lobo no parece una pregunta, sino que suena más a que le estamos dando una indicación, una orden, o más amablemente, le estamos pidiendo que nos haga _un favor_.
+Pero si lo volvemos a pensar, lo que le dijimos al lobo no parece una *pregunta*, sino que suena más a que le estamos diciendo que realice una *acción*, dando una indicación, una orden, o más amablemente, le estamos pidiendo que nos haga _un favor_.
 
 Desde ese punto de vista, no tiene sentido que el lobo nos hubiera respondido, pero sí esperamos que haya hecho lo que le dijimos.
 
