@@ -3,6 +3,7 @@ Efectivamente, ahora vemos que el lobo está en la casa de la abuela :house_with
 Algo hizo el lobo en reacción a dicho mensaje, que provocó que una misma pregunta respondiera cosas diferentes antes y después de haberlo enviado. De alguna manera, se las ingenió para _recordar_ su ubicacion en cada momento y permitir que vaya cambiando.
 
 Vamos a ampliar lo que veníamos diciendo de los mensajes:
+
 * Como ya habiamos visto, si el mensaje es una pregunta, nos responde.
 * Lo que agregamos ahora, es que si el mensaje es una indicación, una orden, hace lo que le decimos y no nos responde nada. Decimos que es un mensaje con **efecto**.
 
@@ -28,6 +29,7 @@ Como el método `dondeEstas()` en vez de un valor puntual devuelve `ubicacion`, 
 Las _variables_ se llaman así porque en un momento hacen referencia a un valor y en otro momento pueden hacer referencia a otro. La manera en que una variable cambia el valor al que refiere es mediante una **asignación**.
 
 Tomá nota :memo: de la sintaxis:
+
 - con `var` declaramos una variable
 - el `=` indica una asignación; a su izquierda va la referencia y a su derecha lo que queremos asignar en ella.
 - al declarar una variable le podemos asignar un valor inicial

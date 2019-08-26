@@ -4,7 +4,7 @@ Veamos de a uno:
 
 `abuela.edad()`
 
-Es un envio de mensaje bien escrito, pero no existe el método edad() en la abuela. 
+Es un envío de mensaje bien escrito, pero no existe el método `edad()` en la abuela. 
 
 `abuela.edad` 
 
@@ -21,6 +21,6 @@ Si queremos preguntarle a la abuela cuantos años tiene, sí o sí tenemos que d
 
 Vamos a denominar **encapsulamiento** a esta característica de un objeto de ser el único que puede manipular sus propios atributos. 
 
-En otras palabras, retomando la idea de entender a los _objetos_ como _sujetos_, podemos decir que cada objeto mantiene oculta su _intimidad_ y los demas objetos lo respetan.
+En otras palabras, retomando la idea de entender a los _objetos_ como _sujetos_, podemos decir que cada objeto mantiene oculta su _intimidad_ y los demás objetos lo respetan.
 
 > Te animás a hacer un método para preguntarle a la  abuela su edad? 
