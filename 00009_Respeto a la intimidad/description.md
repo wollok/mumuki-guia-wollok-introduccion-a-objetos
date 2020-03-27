@@ -23,4 +23,4 @@ Vamos a denominar **encapsulamiento** a esta característica de un objeto de ser
 
 En otras palabras, retomando la idea de entender a los _objetos_ como _sujetos_, podemos decir que cada objeto mantiene oculta su _intimidad_ y los demás objetos lo respetan.
 
-> Te animás a hacer un método para preguntarle a la  abuela su edad? 
+> Te animás a hacer un método para que la abuela pueda responder su edad? 
